@@ -46,15 +46,6 @@ class Portfolio extends StatelessWidget {
               child: SizedBox(height: 20),
             ),
             PortfolioItem(
-              projectName: "Food Ordering",
-              projectLink:
-                  "https://github.com/Khaledalif3388/foodmate.github.io",
-              projectDescription: "A food ordering app.",
-            ),
-            Center(
-              child: SizedBox(height: 20),
-            ),
-            PortfolioItem(
               projectName: "Password-manager-app",
               projectLink:
                   "https://github.com/kaif15-14682/Password-manager-using-bash",
